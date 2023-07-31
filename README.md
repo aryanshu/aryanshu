@@ -1,4 +1,4 @@
-[![MasterHead](https://aryanshu.github.io/assets/banner.jpeg)]
+[MasterHead](https://aryanshu.github.io/assets/banner.jpeg)
 <h1 align="center">Hi 👋, I'm Aryanshu Verma</h1>
 <h3 align="center">Java/Spring Backend Developer</h3>
 <img align="right" alt="coding" width="400" src="https://aryanshu.github.io/assets/readme-gif.gif">
