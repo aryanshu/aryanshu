@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Aryanshu Verma</h1>
-<h3 align="center">Java/Spring Backend Developer</h3>
+<h3 align="center">Java/Python Backend Developer</h3>
 <img align="right" alt="coding" width="400" src="https://aryanshu.github.io/assets/readme-gif.gif">
 
 - 🔭 I’m currently working on [Tinder-Clone](https://aryanshu.github.io/project/tinder-clone/)
